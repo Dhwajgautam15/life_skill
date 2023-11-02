@@ -1,6 +1,6 @@
 # Question 1
 
-##Which point(s) were new to you?
+## Which point(s) were new to you?
 
 - Encouraging keeping video on during meetings to improve team rapport and communication.
 - Providing guidance on how to effectively ask questions by explaining the problem clearly and mentioning the solutions attempted.
